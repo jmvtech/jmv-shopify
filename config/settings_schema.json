@@ -7,7 +7,7 @@
     "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
     "theme_support_url": "https://support.shopify.com/"
   },
-  {
+  {    
     "name": "t:settings_schema.logo.name",
     "settings": [
       {
@@ -30,6 +30,23 @@
         "id": "favicon",
         "label": "t:settings_schema.logo.settings.favicon.label",
         "info": "t:settings_schema.logo.settings.favicon.info"
+      }
+    ]
+  },
+  {
+    "name": "Cores personalizadas da JMV",
+    "settings": [
+      {
+        "type": "color",
+        "id": "jmv_background",
+        "label": "Fundo Azul Escuro JMV",
+        "default": "#0D1C3D"
+      },
+      {
+        "type": "color",
+        "id": "jmv_text",
+        "label": "Texto Branco",
+        "default": "#FFFFFF"
       }
     ]
   },
