@@ -26,14 +26,14 @@
         "announcement-bar-0"
       ],
       "custom_css": [
-        ".utility-bar.color-background-1 {background-color: #0D1C3D !important; border-bottom: none !important;}",
-        ".announcement-bar__message,.announcement-bar__message span {color: #FFFFFF !important; text-align: center !important;}",
+        ".utility-bar.color-background-1 {background-color: #0d1c3d !important; border-bottom: none !important;}",
+        ".announcement-bar__message,.announcement-bar__message span {color: #ffffff !important; text-align: center !important;}",
         ".utility-bar__grid {display: flex !important; justify-content: center !important; align-items: center !important; gap: 12px;}",
-        ".site-header,.header-wrapper {background-color: #0D1C3D !important; color: #FFFFFF !important;}",
-        ".site-header a,.site-header .icon,.header__menu-item {color: #FFFFFF !important;}"
+        ".site-header,.header-wrapper {background-color: #0d1c3d !important; color: #ffffff !important;}",
+        ".site-header a,.site-header .icon,.header__menu-item {color: #ffffff !important;}"
       ],
       "settings": {
-        "color_scheme": "custom",
+        "color_scheme": "background-1",
         "show_line_separator": true,
         "show_social": true,
         "auto_rotate": false,
