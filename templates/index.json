@@ -9,6 +9,61 @@
  */
 {
   "sections": {
+    "slideshow_7VKqdg": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_x8AwYm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_13_de_jul._de_2025_15_35_18.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9TVa84": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide de imagem",
+            "heading_size": "h1",
+            "subheading": "Conte a história de sua marca com vídeos e imagens",
+            "button_label": "Etiqueta de botão",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_x8AwYm",
+        "slide_9TVa84"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Apresentação de slides sobre nossa marca"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -71,6 +126,7 @@
     }
   },
   "order": [
+    "slideshow_7VKqdg",
     "image_banner",
     "featured_collection"
   ]
